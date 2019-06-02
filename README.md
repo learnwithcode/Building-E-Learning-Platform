@@ -17,6 +17,19 @@
 
 ## Creating A CMS
 
+[6 - Creating the authentication templates](../../tree/53f5f920972a663cc0c2a0323eb21a1f5c57b9ff/)
+
+[7 - Using mixins for class-based views](../../tree/1fa179747ab32fcda7720fe8e298e2bc4cb0175a/)
+
+[8 - Restricting access to class-based views](../../tree/0569aa6a59a39286e55472fafdeedeb75c19c556/)
 
 
+[9 - Using formsets for course modules](../../tree/df7b80aae085a72b446a44ad4d08c7bc335583d2/)
 
+[10 - Adding content to course module](../../tree/485db3751cb14f65fece35012ccb83906df7bde9/)
+
+[11 - Adding content to course module 2](../../tree/c74587191743441ab314d93a6c945c0367c390b2/)
+
+[12 - Managing modules contents](../../tree/db76cf8dfa2d9c397119ff80b1e6e7822eb6f2ea/)
+
+[13 - Using mixins from django-braces](../../tree/cd0cce9b4ff7c5b0eaa50f65dd265640c9d2a10f/)
