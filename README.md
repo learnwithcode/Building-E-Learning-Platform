@@ -23,7 +23,6 @@
 
 [8 - Restricting access to class-based views](../../tree/0569aa6a59a39286e55472fafdeedeb75c19c556/)
 
-
 [9 - Using formsets for course modules](../../tree/df7b80aae085a72b446a44ad4d08c7bc335583d2/)
 
 [10 - Adding content to course module](../../tree/485db3751cb14f65fece35012ccb83906df7bde9/)
@@ -33,3 +32,15 @@
 [12 - Managing modules contents](../../tree/db76cf8dfa2d9c397119ff80b1e6e7822eb6f2ea/)
 
 [13 - Using mixins from django-braces](../../tree/cd0cce9b4ff7c5b0eaa50f65dd265640c9d2a10f/)
+
+## Rendering and Content
+
+[14 - Displaying courses](../../tree/c982d35021012a42d60275429c27d242de70ee10/)
+
+[15 - Student Registration View](../../tree/8448bb7f45f641878c469b48c7ba2eab77c581c4/)
+
+[16 - Enrolling in courses](../../tree/324221675ad65290b43e6d4d1247752246aabe6d/)
+
+[17 - Accessing the course contents](../../tree/82868d4a96ed6fd3376057dea030746b10944afa/)
+
+[18 - Rendering different types of content](../../tree/a3bf728a86787a064fa4cf4b1b64274e662cd156/)
